@@ -15,6 +15,7 @@ namespace Hotel
     {
         public Startup(IConfiguration configuration)
         {
+
             Configuration = configuration;
         }
 
